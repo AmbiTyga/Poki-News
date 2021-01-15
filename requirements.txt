@@ -1,0 +1,10 @@
+django
+pytz
+Pillow
+django-extensions
+pandas
+numpy
+sklearn
+nltk
+newspaper3k
+google
